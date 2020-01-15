@@ -19,10 +19,6 @@ For a consistent knowledge.
 * D - Right
 * Escape - Exit game
 
-## Built With
-
-* Starter Content
-
 ## Author
 
 * **Raphael Rodrigues Teixeira de Freitas** - [Raph-R](https://github.com/raph-r)
