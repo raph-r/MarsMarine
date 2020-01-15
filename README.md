@@ -1,6 +1,7 @@
 # MarsMarine
 This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting](https://www.udemy.com/course/unrealblueprint/).
 The player must survive during waves of monsters. This game is a shooter, that use top-down camera.
+If you have any question, please, let me know.
 
 ## Why did I do that?
 For a consistent knowledge.
